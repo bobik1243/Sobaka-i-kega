@@ -1,0 +1,13 @@
+.block {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-image: url(8b236f3fc29f0e13.jpg);
+}
+.text {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
